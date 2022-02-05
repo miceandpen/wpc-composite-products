@@ -1,0 +1,656 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Composite Products for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Composite Products for WooCommerce 3.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-composite-"
+"products\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-15T02:52:50+00:00\n"
+"PO-Revision-Date: 2020-04-15 08:59+0300\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: wpc-composite-products\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Composite Products for WooCommerce"
+msgstr "WPC WooCommerce için Bileşik Ürün Eklentisi"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid ""
+"WPC Composite Products provide a powerful kit-building solution for "
+"WooCommerce store."
+msgstr ""
+"WPC Composite Products WooCommerce altyapıları için güçlü bir ürün kiti "
+"uygulaması sunar."
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-composite-products.php:63 wpc-composite-products.php:851
+msgid "Select options"
+msgstr "Seçenekler"
+
+#: wpc-composite-products.php:69 wpc-composite-products.php:857
+msgid "Read more"
+msgstr "İncele"
+
+#: wpc-composite-products.php:80 wpc-composite-products.php:868
+msgid "Add to cart"
+msgstr "Sepete Ekle"
+
+#: wpc-composite-products.php:376
+msgid "remove"
+msgstr "sil"
+
+#: wpc-composite-products.php:381 wpc-composite-products.php:421
+msgid "Name"
+msgstr "İsim"
+
+#: wpc-composite-products.php:390
+msgid "Description"
+msgstr "Açıklama"
+
+#: wpc-composite-products.php:399
+msgid "Source"
+msgstr "Kaynak"
+
+#: wpc-composite-products.php:404
+msgid "Select source"
+msgstr "Kaynak Seç"
+
+#: wpc-composite-products.php:406
+msgid "Products"
+msgstr "Ürünler"
+
+#: wpc-composite-products.php:409
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: wpc-composite-products.php:412
+msgid "Tags"
+msgstr "Etiketler"
+
+#: wpc-composite-products.php:416
+msgid "Orderby"
+msgstr "Sıralama"
+
+#: wpc-composite-products.php:418 wpc-composite-products.php:429
+msgid "Default"
+msgstr "Varsayılan"
+
+#: wpc-composite-products.php:419
+msgid "None"
+msgstr "Hiç"
+
+#: wpc-composite-products.php:420
+msgid "ID"
+msgstr "ID"
+
+#: wpc-composite-products.php:422
+msgid "Type"
+msgstr "Tip"
+
+#: wpc-composite-products.php:423
+msgid "Rand"
+msgstr ""
+
+#: wpc-composite-products.php:424
+msgid "Date"
+msgstr "Tarih"
+
+#: wpc-composite-products.php:425
+msgid "Modified"
+msgstr "Düzenleme"
+
+#: wpc-composite-products.php:427
+msgid "Order"
+msgstr "Sırala"
+
+#: wpc-composite-products.php:430
+msgid "DESC"
+msgstr "AZALAN"
+
+#: wpc-composite-products.php:431
+msgid "ASC"
+msgstr "ARTAN"
+
+#: wpc-composite-products.php:442 wpc-composite-products.php:502
+msgid "Search for a product&hellip;"
+msgstr "Ürün arama&hellip;"
+
+#: wpc-composite-products.php:465
+msgid "Search for a category&hellip;"
+msgstr "Kategori arama&hellip;"
+
+#: wpc-composite-products.php:486
+msgid "Add some tags, split by a comma..."
+msgstr "Etiket ekleyiniz. ( Her etiketi virgül ile ayırınız. )"
+
+#: wpc-composite-products.php:493
+msgid "Default option"
+msgstr "Varsayılan Seçenek"
+
+#: wpc-composite-products.php:519
+msgid "Required"
+msgstr "Gerekli*"
+
+#: wpc-composite-products.php:524 wpc-composite-products.php:552
+#: wpc-composite-products.php:712 wpc-composite-products.php:733
+#: wpc-composite-products.php:743 wpc-composite-products.php:753
+#: wpc-composite-products.php:796 wpc-composite-products.php:927
+#: wpc-composite-products.php:961
+msgid "Yes"
+msgstr "Evet"
+
+#: wpc-composite-products.php:527 wpc-composite-products.php:549
+#: wpc-composite-products.php:713 wpc-composite-products.php:734
+#: wpc-composite-products.php:744 wpc-composite-products.php:754
+#: wpc-composite-products.php:804 wpc-composite-products.php:829
+#: wpc-composite-products.php:882 wpc-composite-products.php:931
+#: wpc-composite-products.php:950 wpc-composite-products.php:965
+msgid "No"
+msgstr "Hayır"
+
+#: wpc-composite-products.php:534 wpc-composite-products.php:1692
+msgid "Quantity"
+msgstr "Miktar"
+
+#: wpc-composite-products.php:544
+msgid "Custom quantity"
+msgstr "Özel miktar belirlenebilsin mi?"
+
+#: wpc-composite-products.php:559
+msgid "New price"
+msgstr "Yeni Fiyat"
+
+#: wpc-composite-products.php:566
+msgid ""
+"Set a new price using a number (eg. \"49\" for $49) or a percentage (eg. "
+"\"90%\" of the original price)."
+msgstr ""
+"Yeni fiyat ataması yapmak için sadece sayıları kullanın. ( Örneğin 49₺ için "
+"49 yazmanız yeterlidir.) Yüzdelik dilim kullanacaksanız (Örnek \"90%\" gibi "
+"kullanabilirsiniz.)"
+
+#: wpc-composite-products.php:571
+msgid "Min"
+msgstr "Minimum"
+
+#: wpc-composite-products.php:581
+msgid "Max"
+msgstr "Maksimum"
+
+#: wpc-composite-products.php:596 wpc-composite-products.php:607
+msgid "WPC Composite Products"
+msgstr "WPC Bileşik Ürün"
+
+#: wpc-composite-products.php:596
+msgid "Composite Products"
+msgstr "Bileşik Ürünler"
+
+#: wpc-composite-products.php:610
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Eklentimizi kullandığınız için teşekkür ederiz! Memnun kalırsanız bize 5 "
+"yıldızlı %s oy veriniz."
+
+#: wpc-composite-products.php:613
+msgid "Reviews"
+msgstr "İncelemeler"
+
+#: wpc-composite-products.php:615
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: wpc-composite-products.php:617
+msgid "Discussion"
+msgstr "Tartışma"
+
+#: wpc-composite-products.php:624
+msgid "How to use?"
+msgstr "Nasıl Kullanılır?"
+
+#: wpc-composite-products.php:628 wpc-composite-products.php:1062
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: wpc-composite-products.php:632 wpc-composite-products.php:1063
+msgid "Premium Version"
+msgstr "Premium Versiyon"
+
+#: wpc-composite-products.php:640
+msgid ""
+"When creating the product, please choose product data is \"Composite product"
+"\" then you can see the search field to start search and add component "
+"products."
+msgstr ""
+"Ürün oluştururken \"ürün verisi\" olarak \"Bileşik Ürün\"ü seçiniz ve arama "
+"kısımlarını kullanarak ürünün bileşenlerini eklemeye başlayın."
+
+#: wpc-composite-products.php:675
+msgid "General"
+msgstr "Genel"
+
+#: wpc-composite-products.php:679
+msgid "Price format"
+msgstr "Fiyat formatı"
+
+#: wpc-composite-products.php:682
+msgid "From regular price"
+msgstr "Normal Fiyattan"
+
+#: wpc-composite-products.php:683
+msgid "From sale price"
+msgstr "Satış Fiyatından"
+
+#: wpc-composite-products.php:684
+msgid "Regular and sale price"
+msgstr "Normal ve Satış Fiyatından"
+
+#: wpc-composite-products.php:687
+msgid "Choose a price format for composites on the archive page."
+msgstr "Arşiv sayfasındaki bileşik ürünler için bir fiyat formatı seçin."
+
+#: wpc-composite-products.php:692
+msgid "Selector interface"
+msgstr "Arayüz Seçimi"
+
+#: wpc-composite-products.php:695
+msgid "ddSlick"
+msgstr "ddSlick"
+
+#: wpc-composite-products.php:696
+msgid "Select2"
+msgstr "Select2"
+
+#: wpc-composite-products.php:697
+msgid "HTML select tag"
+msgstr "HTML seçme etiketi"
+
+#: wpc-composite-products.php:709
+msgid "Exclude unpurchasable"
+msgstr "Satın alınamayanları hariç tut"
+
+#: wpc-composite-products.php:715
+msgid "Exclude unpurchasable products from the list."
+msgstr "Satın alınamayanları listeden hariç tut."
+
+#: wpc-composite-products.php:719
+msgid "Show alert"
+msgstr "Uyarı Göster"
+
+#: wpc-composite-products.php:722
+msgid "On composite loaded"
+msgstr "Bileşik ürün yüklendiğinde"
+
+#: wpc-composite-products.php:723
+msgid "On composite changing"
+msgstr "Bileşik ürün değiştiğinde"
+
+#: wpc-composite-products.php:724
+msgid "No, always hide the alert"
+msgstr "Hayır, uyarıları her zaman gizle"
+
+#: wpc-composite-products.php:726
+msgid "Show the inline alert under the components."
+msgstr "Bileşenler altında satır içi uyarıyı gösterin."
+
+#: wpc-composite-products.php:730
+msgid "Show quantity"
+msgstr "Miktarı göster"
+
+#: wpc-composite-products.php:736
+msgid "Show the quantity before product name."
+msgstr "Miktarı ürün isminden önce göster."
+
+#: wpc-composite-products.php:740
+msgid "Show image"
+msgstr "Görseli göster"
+
+#: wpc-composite-products.php:746 wpc-composite-products.php:756
+msgid "Only for HTML select tag."
+msgstr "Sadece HTML seçme etiketi seçili olduğunda."
+
+#: wpc-composite-products.php:750
+msgid "Show price"
+msgstr "Fiyatı göster"
+
+#: wpc-composite-products.php:760
+msgid "Option none"
+msgstr "Ürün seçilmediğinde"
+
+#: wpc-composite-products.php:764 wpc-composite-products.php:2082
+msgid "No, thanks. I don't need this"
+msgstr "Teşekkürler, bu ürüne ihtiyacım yok"
+
+#: wpc-composite-products.php:765
+msgid "Text to display for showing a \"Don't choose any product\" option."
+msgstr "\"Hiçbir ürün seçme\" seçeneği için yayınlanacak içerik."
+
+#: wpc-composite-products.php:769
+msgid "Total text"
+msgstr "Toplam yazısı"
+
+#: wpc-composite-products.php:773 wpc-composite-products.php:1008
+msgid "Total price:"
+msgstr "Toplam Fiyat:"
+
+#: wpc-composite-products.php:775 wpc-composite-products.php:786
+#: wpc-composite-products.php:843
+msgid ""
+"Leave blank to use the default text and its equivalent translation in "
+"multiple languages."
+msgstr ""
+"Varsayılan metni ve eşdeğer çevirisini birden çok dilde kullanmak için boş "
+"bırakın."
+
+#: wpc-composite-products.php:780
+msgid "Saved text"
+msgstr "Elde Edilen İndirim Yazısı"
+
+#: wpc-composite-products.php:784 wpc-composite-products.php:1012
+msgid "(saved [d])"
+msgstr "(indirim: [d])"
+
+#: wpc-composite-products.php:791
+msgid "Change price"
+msgstr "Fiyat değiştir"
+
+#: wpc-composite-products.php:800
+msgid "Yes, custom selector"
+msgstr "Evet, özel seçim yapılacak"
+
+#: wpc-composite-products.php:811
+msgid ""
+"Change the main product’s price based on the changes in prices of selected "
+"variations in a grouped products. This uses Javascript to change the main "
+"product’s price to it depends heavily on theme’s HTML. If the price doesn't "
+"change when this option is enabled, please contact us and we can help you "
+"adjust the JS file. "
+msgstr ""
+"Gruplandırılmış bir üründe seçilen varyasyonların fiyatlarındaki "
+"değişikliklere dayanarak ana ürünün fiyatını değiştirin. Bu, ana ürünün "
+"fiyatını büyük ölçüde temanın HTML'sine bağlı olarak değiştirmek için "
+"Javascript kullanır. Bu seçenek etkinleştirildiğinde fiyat değişmezse, "
+"lütfen bizimle iletişime geçin; JS dosyasını ayarlamanıza yardımcı "
+"olabiliriz. "
+
+#: wpc-composite-products.php:816
+msgid "Link to individual product"
+msgstr "Ürünün kendi sayfasına link ver"
+
+#: wpc-composite-products.php:821
+msgid "Yes, open product page"
+msgstr "Ürünün sayfasını aç"
+
+#: wpc-composite-products.php:825
+msgid "Yes, open quick view popup"
+msgstr "Ürünün popup ile hızlı inceleme sayfasını göster"
+
+#: wpc-composite-products.php:832
+msgid "Add a link to the target individual product below this selection."
+msgstr "Bu seçimin altındaki her ürüne bir bağlantı ekleyin."
+
+#: wpc-composite-products.php:840
+msgid "\"Add to Cart\" button labels"
+msgstr "\"Sepete Ekle\" buton içeriği"
+
+#: wpc-composite-products.php:847
+msgid "Archive/shop page"
+msgstr "Arşiv / mağaza sayfası"
+
+#: wpc-composite-products.php:853
+msgid "For purchasable composites."
+msgstr "Satın alınabilir bileşik ürünler için."
+
+#: wpc-composite-products.php:859
+msgid "For unpurchasable composites."
+msgstr "Satın alınamaz bileşik ürünler için."
+
+#: wpc-composite-products.php:864
+msgid "Single product page"
+msgstr "Tekil ürün sayfası"
+
+#: wpc-composite-products.php:873
+msgid "Cart & Checkout"
+msgstr "Sepet & Ödeme"
+
+#: wpc-composite-products.php:877
+msgid "Coupon restrictions"
+msgstr "Kupon engellemeleri"
+
+#: wpc-composite-products.php:886
+msgid "Exclude composite"
+msgstr "Bileşik ürünü hariç tut"
+
+#: wpc-composite-products.php:890
+msgid "Exclude component products"
+msgstr "Bileşen ürünleri hariç tut"
+
+#: wpc-composite-products.php:894
+msgid "Exclude both composite and component products"
+msgstr "Hem bileşik ürünü hem de bileşen ürünleri hariç tut"
+
+#: wpc-composite-products.php:898
+msgid "Choose products you want to exclude from coupons."
+msgstr "Kuponlardan hariç tutmak istediğiniz ürünleri seçiniz."
+
+#: wpc-composite-products.php:903
+msgid "Cart content count"
+msgstr "Sepet İçeriğindeki Sayım"
+
+#: wpc-composite-products.php:908
+msgid "Composite only"
+msgstr "Sadece bileşik ürünü göster"
+
+#: wpc-composite-products.php:912
+msgid "Component products only"
+msgstr "Sadece bileşenleri göster"
+
+#: wpc-composite-products.php:916
+msgid "Both composite and component products"
+msgstr "Hem bileşik ürünü hem de bileşenleri göster"
+
+#: wpc-composite-products.php:922
+msgid "Hide composite name before component products"
+msgstr "Bileşik ürün ismini bileşenlerden önce gösterme"
+
+#: wpc-composite-products.php:937
+msgid "Hide component products on cart & checkout page"
+msgstr "Bileşen ürünleri sepette ve ödeme sayfasında gizle"
+
+#: wpc-composite-products.php:942
+msgid "Yes, just show the composite"
+msgstr "Sadece bileşik ürünü göster"
+
+#: wpc-composite-products.php:946
+msgid "Yes, but show component product names under the composite"
+msgstr "Sadece bileşen ürünlerinin isimlerini bileşik ürünün altında göster"
+
+#: wpc-composite-products.php:956
+msgid "Hide component products on mini-cart"
+msgstr ""
+"Bileşen ürünleri mini-sepette gösterme (Genelde sepet ikonu ile gösterilen "
+"sepettir.)"
+
+#: wpc-composite-products.php:969
+msgid "Hide component products, just show the main composite on mini-cart."
+msgstr ""
+"Bileşen ürünleri mini-sepette gösterme sadece ana bileşik ürünü mini-sepette "
+"göster."
+
+#: wpc-composite-products.php:976
+msgid "Update Options"
+msgstr "Seçenekleri Güncelle"
+
+#: wpc-composite-products.php:1035
+msgid ""
+"Please choose at least [min] of the whole products before adding to the cart."
+msgstr ""
+"Lütfen sepete eklemeden önce ürünlerden en az [min] adet ürün ekleyiniz."
+
+#: wpc-composite-products.php:1036
+msgid ""
+"Please choose maximum [max] of the whole products before adding to the cart."
+msgstr ""
+"Lütfen sepete eklemeden önce ürünlerden en çok [max] adet ürün ekleyiniz."
+
+#: wpc-composite-products.php:1037
+msgid ""
+"Please select a purchasable product in the component [name] before adding to "
+"the cart."
+msgstr ""
+"Lütfen sepete eklemeden önce [name] bileşeninden satın alınabilir bir ürün "
+"seçiniz."
+
+#: wpc-composite-products.php:1079
+msgid "Premium support"
+msgstr "Premium Yardım"
+
+#: wpc-composite-products.php:1257
+msgid "One of the component products is unavailable."
+msgstr "Bileşen ürünlerden biri kullanılabilir değil."
+
+#: wpc-composite-products.php:1258 wpc-composite-products.php:1265
+#: wpc-composite-products.php:1272 wpc-composite-products.php:1279
+#: wpc-composite-products.php:1286 wpc-composite-products.php:1296
+#: wpc-composite-products.php:1304
+msgid "You cannot add this composite products to the cart."
+msgstr "Bu bileşik ürünü sepete ekleyemezsiniz."
+
+#: wpc-composite-products.php:1264 wpc-composite-products.php:1271
+msgid "\"%s\" is un-purchasable."
+msgstr "\"%s\" satın alınabilir değildir."
+
+#: wpc-composite-products.php:1278 wpc-composite-products.php:1295
+msgid "\"%s\" has not enough stock."
+msgstr "\"%s\" için yeterli stok bulunmamaktadır."
+
+#: wpc-composite-products.php:1285
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Daha fazla \"%s\" ürününü sepete ekleyemezsiniz."
+
+#: wpc-composite-products.php:1303
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr "\"%s\" satın alınamaz."
+
+#: wpc-composite-products.php:1484 wpc-composite-products.php:1505
+#: wpc-composite-products.php:1609 wpc-composite-products.php:2420
+#: wpc-composite-products.php:2432
+msgid "Components"
+msgstr "Bileşenler"
+
+#: wpc-composite-products.php:1543
+msgid "(in %s)"
+msgstr "(/ %s)"
+
+#: wpc-composite-products.php:1573
+msgid "Composite (%s)"
+msgstr "Bileşik (%s)"
+
+#: wpc-composite-products.php:1602
+msgid "Composite product"
+msgstr "Bileşik Ürün"
+
+#: wpc-composite-products.php:1641
+msgid "+ Add component"
+msgstr "+ Bileşen Ekle"
+
+#: wpc-composite-products.php:1649
+msgid "Pricing"
+msgstr "Fiyatlandırma"
+
+#: wpc-composite-products.php:1651
+msgid ""
+"Always put a price in the General tab to display the Add to Cart button. "
+"This is also the base price."
+msgstr ""
+"Sepete Ekle düğmesini görüntülemek için her zaman Genel sekmesinden bir "
+"fiyat koyun. Bu aynı zamanda taban fiyattır."
+
+#: wpc-composite-products.php:1652
+msgid "Configure the pricing of the composite here."
+msgstr "Bileşik ürünün fiyat ayarlamasını buradan yapınız."
+
+#: wpc-composite-products.php:1654
+msgid "Only base price"
+msgstr "Sadece taban fiyatı"
+
+#: wpc-composite-products.php:1655
+msgid "Include base price"
+msgstr "Taban fiyatını dahil et"
+
+#: wpc-composite-products.php:1656
+msgid "Exclude base price"
+msgstr "Taban fiyatını dahil etme"
+
+#: wpc-composite-products.php:1659
+msgid ""
+"\"Base price\" is the price set in the General tab. When \"Only base price\" "
+"is chosen, the total price won't change despite the price changes in "
+"variable components."
+msgstr ""
+"\"Taban fiyat\", Genel sekmesinde ayarlanan fiyattır. \"Yalnızca taban fiyat"
+"\" seçildiğinde, değişken bileşenlerde fiyat değişikliklerine rağmen toplam "
+"fiyat değişmez."
+
+#: wpc-composite-products.php:1663
+msgid "Discount"
+msgstr "İndirim"
+
+#: wpc-composite-products.php:1670
+msgid ""
+"The universal percentage discount will be applied equally on each "
+"component's price, not on the total."
+msgstr ""
+"Genel indirim yüzdesi, toplama değil, her bir bileşenin fiyatına eşit olarak "
+"uygulanacaktır."
+
+#: wpc-composite-products.php:1705
+msgid "Shipping fee"
+msgstr "Gönderim Ücreti"
+
+#: wpc-composite-products.php:1708
+msgid "Apply to the whole composite"
+msgstr "Tüm bileşik ürüne uygula"
+
+#: wpc-composite-products.php:1709
+msgid "Apply to each component product"
+msgstr "Her bileşene ayrı uygula"
+
+#: wpc-composite-products.php:1714
+msgid "Custom display price"
+msgstr "Görünen fiyatı özelleştir"
+
+#: wpc-composite-products.php:1722
+msgid "Above text"
+msgstr "Yazının üstünde"
+
+#: wpc-composite-products.php:1731
+msgid "Under text"
+msgstr "Yazının altında"
+
+#: wpc-composite-products.php:1847 wpc-composite-products.php:1850
+msgid "From"
+msgstr "Şuradan"
+
+#: wpc-composite-products.php:2045 wpc-composite-products.php:2119
+msgid "Qty:"
+msgstr "Miktar:"

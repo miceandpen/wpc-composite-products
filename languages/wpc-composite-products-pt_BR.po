@@ -1,0 +1,599 @@
+# Translation of Plugins - WPC Composite Products for WooCommerce - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WPC Composite Products for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-25 12:36-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WPC Composite Products for WooCommerce - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: wpc-composite-products.php:769
+msgid "Show \"Option none\" for required component"
+msgstr "Mostrar \"Opção nenhuma\" para o componente necessário"
+
+#: wpc-composite-products.php:485
+msgid "Add some tags, split by a comma..."
+msgstr "Adicione algumas tags, separadas por vírgula ..."
+
+#: wpc-composite-products.php:411
+msgid "Tags"
+msgstr "Tags"
+
+#: wpc-composite-products.php:726
+msgid "Show the inline alert under the components."
+msgstr "Mostre o alerta embutido sob os componentes."
+
+#: wpc-composite-products.php:724
+msgid "No, always hide the alert"
+msgstr "Não, sempre oculte o alerta"
+
+#: wpc-composite-products.php:723
+msgid "On composite changing"
+msgstr "Na alteração do composto"
+
+#: wpc-composite-products.php:722
+msgid "On composite loaded"
+msgstr "No carregamento do composto"
+
+#: wpc-composite-products.php:719
+msgid "Show alert"
+msgstr "Mostrar alerta"
+
+#: wpc-composite-products.php:1661
+msgid "Configure the pricing of the composite here."
+msgstr "Configure o preço do composto aqui."
+
+#: wpc-composite-products.php:1660
+msgid "Always put a price in the General tab to display the Add to Cart button. This is also the base price."
+msgstr "Sempre coloque um preço na guia Geral para exibir o botão Adicionar ao carrinho. Este também é o preço base."
+
+#: wpc-composite-products.php:1046
+msgid "Please select a purchasable product in the component [name] before adding to the cart."
+msgstr "Selecione um produto comprável no componente [nome] antes de adicioná-lo ao carrinho."
+
+#: wpc-composite-products.php:907
+msgid "Choose products you want to exclude from coupons."
+msgstr "Escolha os produtos que você deseja excluir dos cupons."
+
+#: wpc-composite-products.php:903
+msgid "Exclude both composite and component products"
+msgstr "Excluir produtos compostos e componentes"
+
+#: wpc-composite-products.php:899
+msgid "Exclude component products"
+msgstr "Excluir produtos componentes"
+
+#: wpc-composite-products.php:895
+msgid "Exclude composite"
+msgstr "Excluir composto"
+
+#: wpc-composite-products.php:886
+msgid "Coupon restrictions"
+msgstr "Restrições de cupom"
+
+#: wpc-composite-products.php:1312
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr "\"%s\" está protegido e não pode ser comprado."
+
+#: wpc-composite-products.php:1294
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Você não pode adicionar outro \"%s\" ao seu carrinho."
+
+#: wpc-composite-products.php:1287 wpc-composite-products.php:1304
+msgid "\"%s\" has not enough stock."
+msgstr "\"%s\" não possui estoque suficiente."
+
+#: wpc-composite-products.php:1273 wpc-composite-products.php:1280
+msgid "\"%s\" is un-purchasable."
+msgstr "\"%s\" não pode ser comprado."
+
+#: wpc-composite-products.php:1267 wpc-composite-products.php:1274
+#: wpc-composite-products.php:1281 wpc-composite-products.php:1288
+#: wpc-composite-products.php:1295 wpc-composite-products.php:1305
+#: wpc-composite-products.php:1313
+msgid "You cannot add this composite products to the cart."
+msgstr "Você não pode adicionar esses produtos compostos ao carrinho."
+
+#: wpc-composite-products.php:1266
+msgid "One of the component products is unavailable."
+msgstr "Um dos produtos componentes não está disponível."
+
+#: wpc-composite-products.php:1740
+msgid "Under text"
+msgstr "Abaixo do texto"
+
+#: wpc-composite-products.php:1731
+msgid "Above text"
+msgstr "Acima do texto"
+
+#: wpc-composite-products.php:1679
+msgid "The universal percentage discount will be applied equally on each component's price, not on the total."
+msgstr "O desconto percentual universal será aplicado igualmente no preço de cada componente, não no total."
+
+#: wpc-composite-products.php:1668
+msgid "\"Base price\" is the price set in the General tab. When \"Only base price\" is chosen, the total price won't change despite the price changes in variable components."
+msgstr "\"Preço base\" é o preço definido na guia Geral. Quando \"Somente preço base\" é escolhido, o preço total não muda, apesar das alterações de preço nos componentes variáveis."
+
+#: wpc-composite-products.php:841
+msgid "Add a link to the target individual product below this selection."
+msgstr "Adicione um link ao produto individual de destino abaixo desta seleção."
+
+#: wpc-composite-products.php:820
+msgid "Change the main product’s price based on the changes in prices of selected variations in a grouped products. This uses Javascript to change the main product’s price to it depends heavily on theme’s HTML. If the price doesn't change when this option is enabled, please contact us and we can help you adjust the JS file. "
+msgstr "Altere o preço do produto principal com base nas alterações nos preços das variações selecionadas nos produtos agrupados. Isso usa Javascript para alterar o preço do produto principal, pois depende muito do HTML do tema. Se o preço não mudar quando essa opção estiver ativada, entre em contato conosco e podemos ajudá-lo a ajustar o arquivo JS. "
+
+#: wpc-composite-products.php:784 wpc-composite-products.php:795
+#: wpc-composite-products.php:852
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr "Deixe em branco para usar o texto padrão e sua tradução equivalente em vários idiomas."
+
+#: wpc-composite-products.php:565
+msgid "Set a new price using a number (eg. \"49\" for $49) or a percentage (eg. \"90%\" of the original price)."
+msgstr "Defina um novo preço usando um número (por exemplo, \"49\" por R$ 49) ou uma porcentagem (por exemplo, \"90%\" do preço original)."
+
+#: wpc-composite-products.php:1582
+msgid "Composite (%s)"
+msgstr "Composto (%s)"
+
+#: wpc-composite-products.php:715
+msgid "Exclude unpurchasable products from the list."
+msgstr "Excluir produtos não adquiridos da lista."
+
+#: wpc-composite-products.php:709
+msgid "Exclude unpurchasable"
+msgstr "Excluir não adquirível"
+
+#: wpc-composite-products.php:558
+msgid "New price"
+msgstr "Novo preço"
+
+#: wpc-composite-products.php:736
+msgid "Show the quantity before product name."
+msgstr "Mostre a quantidade antes do nome do produto."
+
+#: wpc-composite-products.php:730
+msgid "Show quantity"
+msgstr "Mostrar quantidade"
+
+#: wpc-composite-products.php:430
+msgid "ASC"
+msgstr "Ascendente"
+
+#: wpc-composite-products.php:429
+msgid "DESC"
+msgstr "Decrecente"
+
+#: wpc-composite-products.php:426
+msgid "Order"
+msgstr "Ordem"
+
+#: wpc-composite-products.php:424
+msgid "Modified"
+msgstr "Modificado"
+
+#: wpc-composite-products.php:423
+msgid "Date"
+msgstr "Data"
+
+#: wpc-composite-products.php:422
+msgid "Rand"
+msgstr "Aleatório"
+
+#: wpc-composite-products.php:421
+msgid "Type"
+msgstr "Tipo"
+
+#: wpc-composite-products.php:419
+msgid "ID"
+msgstr "ID"
+
+#: wpc-composite-products.php:418
+msgid "None"
+msgstr "Nenhum"
+
+#: wpc-composite-products.php:417 wpc-composite-products.php:428
+msgid "Default"
+msgstr "Padrão"
+
+#: wpc-composite-products.php:415
+msgid "Orderby"
+msgstr "Orderby"
+
+#: wpc-composite-products.php:1723
+msgid "Custom display price"
+msgstr "Preço de exibição personalizado"
+
+#: wpc-composite-products.php:809
+msgid "Yes, custom selector"
+msgstr "Sim, seletor personalizado"
+
+#: wpc-composite-products.php:696
+msgid "Select2"
+msgstr "Select2"
+
+#: wpc-composite-products.php:441 wpc-composite-products.php:501
+msgid "Search for a product&hellip;"
+msgstr "Procure um produto&hellip;"
+
+#: wpc-composite-products.php:464
+msgid "Search for a category&hellip;"
+msgstr "Procure uma categoria &hellip;"
+
+#: wpc-composite-products.php:765
+msgid "Text to display for showing a \"Don't choose any product\" option."
+msgstr "Texto a ser exibido para mostrar uma opção \"Não escolha nenhum produto\"."
+
+#: wpc-composite-products.php:764 wpc-composite-products.php:2099
+msgid "No, thanks. I don't need this"
+msgstr "Não, obrigado. Eu não preciso disso"
+
+#: wpc-composite-products.php:760
+msgid "Option none"
+msgstr "Opção nenhuma"
+
+#: wpc-composite-products.php:750
+msgid "Show price"
+msgstr "Mostrar preço"
+
+#: wpc-composite-products.php:746 wpc-composite-products.php:756
+msgid "Only for HTML select tag."
+msgstr "Somente para tag de seleção HTML."
+
+#: wpc-composite-products.php:740
+msgid "Show image"
+msgstr "Mostrar imagem"
+
+#: wpc-composite-products.php:1665
+msgid "Exclude base price"
+msgstr "Excluir preço base"
+
+#: wpc-composite-products.php:1664
+msgid "Include base price"
+msgstr "Incluir preço base"
+
+#: wpc-composite-products.php:1663
+msgid "Only base price"
+msgstr "Apenas preço base"
+
+#: wpc-composite-products.php:1658
+msgid "Pricing"
+msgstr "Preços"
+
+#: wpc-composite-products.php:697
+msgid "HTML select tag"
+msgstr "Tag de seleção HTML"
+
+#: wpc-composite-products.php:695
+msgid "ddSlick"
+msgstr "ddSlick"
+
+#: wpc-composite-products.php:692
+msgid "Selector interface"
+msgstr "Interface seletora"
+
+#: wpc-composite-products.php:492
+msgid "Default option"
+msgstr "Opção padrão"
+
+#: wpc-composite-products.php:1045
+msgid "Please choose maximum [max] of the whole products before adding to the cart."
+msgstr "Por favor, escolha o máximo [máximo] de todos os produtos antes de adicioná-lo ao carrinho."
+
+#: wpc-composite-products.php:1044
+msgid "Please choose at least [min] of the whole products before adding to the cart."
+msgstr "Por favor, escolha pelo menos [min] de todos os produtos antes de adicionar ao carrinho."
+
+#: wpc-composite-products.php:834
+msgid "Yes, open quick view popup"
+msgstr "Sim, abra o pop-up de visualização rápida"
+
+#: wpc-composite-products.php:830
+msgid "Yes, open product page"
+msgstr "Sim, abra a página do produto"
+
+#: wpc-composite-products.php:825
+msgid "Link to individual product"
+msgstr "Link para produto individual"
+
+#: wpc-composite-products.php:518
+msgid "Required"
+msgstr "Requerido"
+
+#: wpc-composite-products.php:800
+msgid "Change price"
+msgstr "Alterar preço"
+
+#: wpc-composite-products.php:793 wpc-composite-products.php:1021
+msgid "(saved [d])"
+msgstr "(Salvo [d])"
+
+#: wpc-composite-products.php:789
+msgid "Saved text"
+msgstr "Texto salvo"
+
+#: wpc-composite-products.php:778
+msgid "Total text"
+msgstr "Texto total"
+
+#: wpc-composite-products.php:2062 wpc-composite-products.php:2137
+msgid "Qty:"
+msgstr "Qtd:"
+
+#: wpc-composite-products.php:580
+msgid "Max"
+msgstr "Máx"
+
+#: wpc-composite-products.php:570
+msgid "Min"
+msgstr "Mín"
+
+#: wpc-composite-products.php:543
+msgid "Custom quantity"
+msgstr "Quantidade personalizada"
+
+#: wpc-composite-products.php:533 wpc-composite-products.php:1701
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: wpc-composite-products.php:399
+msgid "Source"
+msgstr "Origem"
+
+#: wpc-composite-products.php:1856 wpc-composite-products.php:1859
+msgid "From"
+msgstr "De"
+
+#: wpc-composite-products.php:1718
+msgid "Apply to each component product"
+msgstr "Aplicar a cada produto componente"
+
+#: wpc-composite-products.php:1717
+msgid "Apply to the whole composite"
+msgstr "Aplique a todo o composto"
+
+#: wpc-composite-products.php:1714
+msgid "Shipping fee"
+msgstr "Taxa de envio"
+
+#: wpc-composite-products.php:1672
+msgid "Discount"
+msgstr "Desconto"
+
+#: wpc-composite-products.php:1650
+msgid "+ Add component"
+msgstr "+ Adicionar componente"
+
+#: wpc-composite-products.php:1493 wpc-composite-products.php:1514
+#: wpc-composite-products.php:1618 wpc-composite-products.php:2442
+#: wpc-composite-products.php:2454
+msgid "Components"
+msgstr "Componentes"
+
+#: wpc-composite-products.php:1611
+msgid "Composite product"
+msgstr "Produto composto"
+
+#: wpc-composite-products.php:1552
+msgid "(in %s)"
+msgstr "(em %s)"
+
+#: wpc-composite-products.php:1088
+msgid "Premium support"
+msgstr "Suporte Premium"
+
+#: wpc-composite-products.php:985
+msgid "Update Options"
+msgstr "Opções de atualização"
+
+#: wpc-composite-products.php:978
+msgid "Hide component products, just show the main composite on mini-cart."
+msgstr "Oculte os componentes, apenas mostre o principal composto no carrinho de compras."
+
+#: wpc-composite-products.php:965
+msgid "Hide component products on mini-cart"
+msgstr "Ocultar produtos componentes no carrinho de compras"
+
+#: wpc-composite-products.php:955
+msgid "Yes, but show component product names under the composite"
+msgstr "Sim, mas mostre os nomes dos produtos componentes sob o composto"
+
+#: wpc-composite-products.php:951
+msgid "Yes, just show the composite"
+msgstr "Sim, apenas mostre o composto"
+
+#: wpc-composite-products.php:946
+msgid "Hide component products on cart & checkout page"
+msgstr "Ocultar produtos componentes na página de carrinho e caixa"
+
+#: wpc-composite-products.php:931
+msgid "Hide composite name before component products"
+msgstr "Ocultar o nome do composto antes dos produtos do componente"
+
+#: wpc-composite-products.php:925
+msgid "Both composite and component products"
+msgstr "Produtos compostos e componentes"
+
+#: wpc-composite-products.php:921
+msgid "Component products only"
+msgstr "Apenas produtos componentes"
+
+#: wpc-composite-products.php:917
+msgid "Composite only"
+msgstr "Apenas composto"
+
+#: wpc-composite-products.php:912
+msgid "Cart content count"
+msgstr "Contagem de conteúdo do carrinho"
+
+#: wpc-composite-products.php:882
+msgid "Cart & Checkout"
+msgstr "Carrinho e Checkout"
+
+#: wpc-composite-products.php:873
+msgid "Single product page"
+msgstr "Página de produto único"
+
+#: wpc-composite-products.php:868
+msgid "For unpurchasable composites."
+msgstr "Para compósitos não adquiríveis."
+
+#: wpc-composite-products.php:862
+msgid "For purchasable composites."
+msgstr "Para compostos compráveis."
+
+#: wpc-composite-products.php:856
+msgid "Archive/shop page"
+msgstr "Página de arquivo / loja"
+
+#: wpc-composite-products.php:849
+msgid "\"Add to Cart\" button labels"
+msgstr "Etiquetas do botão \"Adicionar ao carrinho\""
+
+#: wpc-composite-products.php:782 wpc-composite-products.php:1017
+msgid "Total price:"
+msgstr "Preço total:"
+
+#: wpc-composite-products.php:687
+msgid "Choose a price format for composites on the archive page."
+msgstr "Escolha um formato de preço para compostos na página de arquivo."
+
+#: wpc-composite-products.php:684
+msgid "Regular and sale price"
+msgstr "Preço normal e de venda"
+
+#: wpc-composite-products.php:683
+msgid "From sale price"
+msgstr "Do preço de venda"
+
+#: wpc-composite-products.php:682
+msgid "From regular price"
+msgstr "Do preço regular"
+
+#: wpc-composite-products.php:679
+msgid "Price format"
+msgstr "Formato de preço"
+
+#: wpc-composite-products.php:675
+msgid "General"
+msgstr "Geral"
+
+#: wpc-composite-products.php:639
+msgid "When creating the product, please choose product data is \"Composite product\" then you can see the search field to start search and add component products."
+msgstr "Ao criar o produto, escolha os dados do produto como \"Produto composto\" e, em seguida, você poderá ver o campo de pesquisa para iniciar a pesquisa e adicionar produtos componentes."
+
+#: wpc-composite-products.php:631 wpc-composite-products.php:1072
+msgid "Premium Version"
+msgstr "Versão Premium"
+
+#: wpc-composite-products.php:627 wpc-composite-products.php:1071
+msgid "Settings"
+msgstr "Configurações"
+
+#: wpc-composite-products.php:623
+msgid "How to use?"
+msgstr "Como usar?"
+
+#: wpc-composite-products.php:616
+msgid "Discussion"
+msgstr "Discussão"
+
+#: wpc-composite-products.php:614
+msgid "Changelog"
+msgstr "Changelog"
+
+#: wpc-composite-products.php:612
+msgid "Reviews"
+msgstr "Avaliações"
+
+#: wpc-composite-products.php:609
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr "Obrigado por usar este plugin! Se você está satisfeito, por favor nos recompense com uma classificação %s 5 estrelas."
+
+#: wpc-composite-products.php:595 wpc-composite-products.php:606
+msgid "WPC Composite Products"
+msgstr "WPC Composite Products"
+
+#: wpc-composite-products.php:595
+msgid "Composite Products"
+msgstr "Produtos Compostos"
+
+#: wpc-composite-products.php:523 wpc-composite-products.php:551
+#: wpc-composite-products.php:712 wpc-composite-products.php:733
+#: wpc-composite-products.php:743 wpc-composite-products.php:753
+#: wpc-composite-products.php:772 wpc-composite-products.php:805
+#: wpc-composite-products.php:936 wpc-composite-products.php:970
+msgid "Yes"
+msgstr "Sim"
+
+#: wpc-composite-products.php:526 wpc-composite-products.php:548
+#: wpc-composite-products.php:713 wpc-composite-products.php:734
+#: wpc-composite-products.php:744 wpc-composite-products.php:754
+#: wpc-composite-products.php:773 wpc-composite-products.php:813
+#: wpc-composite-products.php:838 wpc-composite-products.php:891
+#: wpc-composite-products.php:940 wpc-composite-products.php:959
+#: wpc-composite-products.php:974
+msgid "No"
+msgstr "Não"
+
+#: wpc-composite-products.php:405
+msgid "Products"
+msgstr "Produtos"
+
+#: wpc-composite-products.php:408
+msgid "Categories"
+msgstr "Categorias"
+
+#: wpc-composite-products.php:403
+msgid "Select source"
+msgstr "Selecionar origem"
+
+#: wpc-composite-products.php:390
+msgid "Description"
+msgstr "Descrição"
+
+#: wpc-composite-products.php:381 wpc-composite-products.php:420
+msgid "Name"
+msgstr "Nome"
+
+#: wpc-composite-products.php:376
+msgid "remove"
+msgstr "remova"
+
+#: wpc-composite-products.php:80 wpc-composite-products.php:877
+msgid "Add to cart"
+msgstr "Adicionar ao carrinho"
+
+#: wpc-composite-products.php:69 wpc-composite-products.php:866
+msgid "Read more"
+msgstr "Leia mais"
+
+#: wpc-composite-products.php:63 wpc-composite-products.php:860
+msgid "Select options"
+msgstr "Selecionar opções"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Description of the plugin
+msgid "WPC Composite Products provide a powerful kit-building solution for WooCommerce store."
+msgstr "WPC Composite Products fornece uma solução poderosa de construção de kits para a loja WooCommerce."
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Plugin Name of the plugin
+msgid "WPC Composite Products for WooCommerce"
+msgstr "WPC Composite Products para WooCommerce"
